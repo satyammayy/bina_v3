@@ -496,12 +496,12 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Finds the lyrics of the song.",
-            "NEED": "```You Must Write Any Song!```",
-            "SLY": "Lyrics:",
-            "AUT": "Song Owner:",
-            "BUL": "Founded Song:",
-            "ARAT": "Searched Song:"
+            "LY_DESC": "Eshei ama gi Lyrics Thinabne!.",
+            "NEED": "```Maming ama di happak kadbne!```",
+            "SLY": "Eshei mayek::",
+            "AUT": "Seisakpa:",
+            "BUL": "Thiba da fngba Eshei::",
+            "ARAT": "Eshei Maming::"
         },
         "covid": {
             "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
